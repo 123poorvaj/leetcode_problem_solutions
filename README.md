@@ -9,4 +9,20 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
