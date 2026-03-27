@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
