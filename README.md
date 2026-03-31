@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/123poorvaj/leetcode_problem_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
